@@ -1,0 +1,70 @@
+*{
+    background-color: rgb(34, 27, 27);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(177, 177, 177);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+}
+.fblock{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.conteiner{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+form{
+    margin-bottom: 15px;
+    background: rgb(2,0,36);
+    background: linear-gradient(239deg, rgba(2,0,36,1) 0%, rgba(94,0,111,1) 35%, rgba(0,212,255,1) 100%);
+    border: 1px solid grey;
+    width: 270px;
+    height: 200px;
+    align-items: center;
+    padding: 70px 0px;
+    text-align: center;
+}
+a{
+    padding: 4px 25px;
+    background-color: #fff;
+    border: 1px solid black ;
+    border-radius: 100px;
+}
+.btnSend{
+    position: fixed;
+    font-weight: 900;
+    background-color: rgb(112, 197, 14);
+    cursor: pointer;
+    padding: 2px 15px;
+    transform: translate(75px, 20px);
+}
+.inputs{
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 5px 10px;
+}
+.list__block{
+    margin: 5px auto;
+    background-color: rgb(174, 174, 174);
+    width: 250px;
+    height: 100px;
+}
+.btnDelete{
+    position: fixed;
+    font-weight: 900;
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+    padding: 2px 15px;
+    transform: translate(13px, 76.3px);
+    color: #fff;
+}

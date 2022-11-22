@@ -1,0 +1,23 @@
+{
+  "name": "js2_les4_dz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjdskhooba/js2_les4_dz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjdskhooba/js2_les4_dz/issues"
+  },
+  "homepage": "https://github.com/hjdskhooba/js2_les4_dz#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
